@@ -55,6 +55,6 @@ With this setup, you can ensure **proactive monitoring** of AWS Lambda functions
 ---
 
 ### 📝 Author  
-✍️ **Ansifa Kouser M**  
+✍️ **Yasmeen R A**  
 
 
